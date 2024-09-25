@@ -1,0 +1,8 @@
+#grand1{
+    height: 200px;
+    background:linear-gradient(to bottom right, rgb(214, 41, 70)  ,yellow ,  orange );
+}
+#grand2 {
+    height: 200px;
+    background:radial-gradient( rgb(232, 118, 137) , yellow, orange);
+}
